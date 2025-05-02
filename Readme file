@@ -1,0 +1,36 @@
+ 🏥 Medical Appointment Scheduling System
+
+A Java-based console application that allows users to manage doctor-patient appointments efficiently.
+
+---
+
+📌 Features
+
+- 👨‍⚕ Add doctors with specialties
+- 👤 Register patients with age and contact info
+- 📅 Book appointments with date and time
+- 🗓 View all scheduled appointments
+- ✅ Simple and user-friendly CLI
+
+---
+
+ 🧑‍💻 Technologies Used
+
+- Java (JDK 8+)
+- Java Collections (ArrayList)
+- Java Time API (LocalDateTime)
+- Object-Oriented Programming
+
+---
+
+🚀 Getting Started
+
+ ✅ Prerequisites
+- Java JDK installed (8 or above)
+- Any IDE (IntelliJ, Eclipse) or CLI support
+
+🔧 Compile & Run
+
+```bash
+javac -d out src/model/.java src/system/.java src/Main.java
+java -cp out Main

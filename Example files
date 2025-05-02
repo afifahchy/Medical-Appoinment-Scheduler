@@ -1,0 +1,22 @@
+ Medical Appointment Scheduling System
+
+A simple Java console application for booking and viewing medical appointments.
+
+Features
+
+- Add doctor and patient details
+- Book appointments with date and time
+- View all scheduled appointments
+
+ Technologies
+
+- Java
+- Java Time API
+- OOP (Object-Oriented Programming)
+
+How to Run
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/medical-appointment-system.git
+   cd medical-appointment-system

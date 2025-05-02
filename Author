@@ -1,0 +1,6 @@
+ .gitignore
+```gitignore
+/out/
+*.class
+*.log
+.DS_Store

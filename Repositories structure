@@ -1,0 +1,13 @@
+medical-appointment-system/
+│
+├── src/
+│   ├── AppointmentSystem.java
+│   ├── Appointment.java
+│   ├── Doctor.java
+│   ├── Patient.java
+│   └── Main.java
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+└── build.gradle or pom.xml (if you use Gradle/Maven, optional)
